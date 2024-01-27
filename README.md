@@ -1,9 +1,9 @@
 # Dan's Portfolio
 The frontpage of my portfolio showcase which links to all the projects I have worked on so far
 ## Table of Contents
-- [SQL](https://github.com/dridgw/Portfolio_Frontpage/blob/main/README.md#sql)
-- [Python](https://github.com/dridgw/Portfolio_Frontpage/blob/main/README.md#python)
-- [Courses](https://github.com/dridgw/Portfolio_Frontpage/main/blob/README.md#courses)
+- [SQL](https://github.com/dridgw/Portfolio_Frontpage/tree/main?tab=readme-ov-file#sql)
+- [Python](https://github.com/dridgw/Portfolio_Frontpage/tree/main?tab=readme-ov-file#python)
+- [Courses](https://github.com/dridgw/Portfolio_Frontpage/tree/main?tab=readme-ov-file#courses)
 
 ## SQL
 | Project Link | Area of Analysis | Project Description |
