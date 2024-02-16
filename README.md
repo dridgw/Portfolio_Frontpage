@@ -14,6 +14,7 @@ The frontpage of my portfolio showcase which links to all the projects I have wo
 | Project Link | Area | Project Description | Libraries |
 |--------------|------|---------------------|-----------|
 | [Codewars Examples](https://github.com/dridgw/CodeWarExamples)| Programming | Questions and Answers to Codewars Challenges | N/A|
+|[Animated Moveis](https://github.com/dridgw/Animated_Movies)| Exploratory Data Analysis | Short project showcasing Loading Data, Wrangling Data and performing Exploratory Data Analysis | Pandas, Numpy, Matplotlib, Seaborn |
 ## Courses
 | Course Name | Completion Data | Final Project |
 |-------------|-----------------|---------------|
